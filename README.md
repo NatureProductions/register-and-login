@@ -1,36 +1,26 @@
-![image<h1>JWipe – Disk Sanitization</h1>
-
-
-
- 
-
-
+<h1>LOGIN FORM</h1>
 
 <h2>Description</h2>
-
-
-
+In this project i created a simple Login form using JAVA Jframes in NetBeans. I want show my abilities to connect any 
+Java programm to the database. So if the user is not registered, the is a signup option for registration. if the user
+is registered or found in the database he/she will be able to login.
 <br />
-
-
-
 
 
 <h2>Languages and Utilities Used</h2>
 
 
 
-- <b>PowerShell</b> 
+- <b>JAVA</b> 
 
-- <b>Diskpart</b>
-
-
-
-<h2>Environments Used </h2>
+- <b>MySQL</b>
 
 
+<h2>Application Used</h2>
 
--	<b>Windows 10</b> (21H2)
+
+
+-	<b>NetBeans</b> (21H2)
 
 
 
@@ -40,33 +30,32 @@
 
 <p align=”center”>
 
-Launch the utility: <br/>
+This is the login Form: <br/>
 
-<img src=https://i.imgur.com/62TgaWL.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
-
-<br />
-
-<br />
-
-Select the disk:  <br/>
-
-<img src=https://i.imgur.com/tcTyMUE.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+![image](https://github.com/user-attachments/assets/e6c1cd64-eb08-43f0-90cc-f6789cfbb939)
 
 <br />
 
 <br />
 
-Enter the number of passes: <br/>
+This is the registration Form:  <br/>
 
-<img src=https://i.imgur.com/nCIbXbg.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+![image](https://github.com/user-attachments/assets/73f0a12f-0868-441b-bfe3-a348f6db89b5)
+
+<br />
+
+<br />
+
+This is the page after Login page: <br/>
+
+![image](https://github.com/user-attachments/assets/dac83c73-d7fd-4eed-a319-d3bf16966101)
 
 <br />
 
 <br />
 
-Confirm your selection:  <br/>
-
-<img src=https://i.imgur.com/cdFHBiU.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+If the user is not found in the database this will display :  <br/>
+![image](https://github.com/user-attachments/assets/e87f9330-bc6c-4b37-ae2d-f845fa6ee865)
 
 <br />
 
