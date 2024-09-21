@@ -31,11 +31,13 @@ an error will show up telling the user to register first.<br/>
 
 This is the registration Form:  <br/>
 
-![image](https://github.com/user-attachments/assets/73f0a12f-0868-441b-bfe3-a348f6db89b5)
+![image](https://github.com/user-attachments/assets/6ba9ccef-239c-4de1-82f9-4f1d9df9d392)
+
 
 <br />
 This isthe register values in the database  <br/>
-![image](https://github.com/user-attachments/assets/06a7577e-9296-4cc6-82e4-ed7f8357a3c4)
+![image](https://github.com/user-attachments/assets/2a654a19-6e18-4d4c-8528-e4598079c5c5)
+
 
 
 <br />
