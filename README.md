@@ -1,36 +1,27 @@
 <h1>LOGIN FORM</h1>
 
 <h2>Description</h2>
-In this project i created a simple Login form using JAVA Jframes in NetBeans. I want show my abilities to connect any 
-Java programm to the database. So if the user is not registered, the is a signup option for registration. if the user
+In this project I created a simple Login form using JAVA Jframes in NetBeans. I want show my abilities to connect any 
+Java programm to the database.I can do more than this project, this is just a simple demonstrait the conectivity of java and database.
+And also show  So if the user is not registered, the is a signup option for registration. if the user
 is registered or found in the database he/she will be able to login.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
-
-
-
 - <b>JAVA</b> 
-
 - <b>MySQL</b>
 
 
 <h2>Application Used</h2>
-
-
-
 -	<b>NetBeans</b> (21H2)
-
-
 
 <h2>Program walk-through:</h2>
 
-
-
 <p align=”center”>
 
-This is the login Form: <br/>
+This is the login Form, User have to input user name and password. If Username password is not in the database
+an error will show up telling the user to register first.<br/>
 
 ![image](https://github.com/user-attachments/assets/e6c1cd64-eb08-43f0-90cc-f6789cfbb939)
 
