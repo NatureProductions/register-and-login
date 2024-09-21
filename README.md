@@ -38,25 +38,47 @@ If the user is not found in the database this will display :  <br/>
 
 This is the registration Form:  <br/>
 ![image](https://github.com/user-attachments/assets/9fe9e8ba-6daf-4b6b-900e-9dc24e2b2ee3)<br />
-This isthe register values in the database  <br/>
 
-![image](https://github.com/user-attachments/assets/a041527b-c50b-4dc3-b880-154f9d488972)
+This is the registered people in the database  <br/>
 
-
-
-
+![image](https://github.com/user-attachments/assets/7b551ce0-f84e-4835-aed1-115d4907b433)
 
 
 <br />
 
-This is the page after Login page: <br/>
+This is the page after Login page is has 4 options, the getme button will retrieve the user's information from database, the UPDATE button will
+allow you to make changes on the user's information, DELETE button will remove the user from the database, HOME take yu to the login page.<br/>
 
-![image](https://github.com/user-attachments/assets/dac83c73-d7fd-4eed-a319-d3bf16966101)
-<br />
-It culculates any Two numbers. After entering the values, press and get summ buttonand the answers will appear. </br>
-![image](https://github.com/user-attachments/assets/b5902399-8412-42b1-936e-6ffc2bde7292)
+![image](https://github.com/user-attachments/assets/c4f6de01-9869-41b3-b173-c834f854df59)
 
 <br />
+This is for the GETME button, but first you have to input the name of the user. </br>
+![image](https://github.com/user-attachments/assets/372e14f6-28d2-46fe-ad5c-85f7a39a90ed)
+
+<br />
+This is for the UPDATE button, but first you have to input the name of the user. </br>
+![image](https://github.com/user-attachments/assets/90b3becb-b54b-4f17-8ac8-8fe5ae89dfdf)
+</br>
+
+This will show when you click the CHECK button
+![image](https://github.com/user-attachments/assets/32185343-c38a-4b06-8374-4ca61a74cdba)
+
+<br/>
+After you click the UPDATE button
+![image](https://github.com/user-attachments/assets/1dd149b6-058e-43b1-a4a4-28cc0e0f47a5)
+
+
+
+
+<br /> 
+
+<br/>
+This is for DELETE button
+![image](https://github.com/user-attachments/assets/a5339656-857b-4c2d-be11-c1cd24732fac)
+
+<br />
+if User is not found in the database this will show up
+![image](https://github.com/user-attachments/assets/a803a311-c45c-4225-b132-28087f2eddc5)
 
 <br />
 
