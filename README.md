@@ -31,7 +31,8 @@ an error will show up telling the user to register first.<br/>
 
 This is the registration Form:  <br/>
 
-![image](https://github.com/user-attachments/assets/6ba9ccef-239c-4de1-82f9-4f1d9df9d392)
+![image](https://github.com/user-attachments/assets/a041527b-c50b-4dc3-b880-154f9d488972)
+
 
 
 <br />
