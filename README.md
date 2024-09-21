@@ -9,8 +9,10 @@ is registered or found in the database he/she will be able to login.
 
 
 <h2>Languages and Utilities Used</h2>
-- <b>JAVA</b> 
-- <b>MySQL</b>
+- <b>JAVA</br> 
+- <b>MySQL</br>
+- <b>MySQL_connector</br>
+
 
 
 <h2>Application Used</h2>
