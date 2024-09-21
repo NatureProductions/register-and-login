@@ -45,6 +45,9 @@ This isthe register values in the database  <br/>
 This is the page after Login page: <br/>
 
 ![image](https://github.com/user-attachments/assets/dac83c73-d7fd-4eed-a319-d3bf16966101)
+<br />
+It culculates any Two numbers. After entering the values, press and get summ buttonand the answers will appear. </br>
+![image](https://github.com/user-attachments/assets/b5902399-8412-42b1-936e-6ffc2bde7292)
 
 <br />
 
