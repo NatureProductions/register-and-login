@@ -26,6 +26,10 @@ an error will show up telling the user to register first.<br/>
 ![image](https://github.com/user-attachments/assets/e6c1cd64-eb08-43f0-90cc-f6789cfbb939)
 
 <br />
+If the user is not found in the database this will display :  <br/>
+![image](https://github.com/user-attachments/assets/e87f9330-bc6c-4b37-ae2d-f845fa6ee865)
+
+<br />
 
 <br />
 
@@ -53,10 +57,7 @@ It culculates any Two numbers. After entering the values, press and get summ but
 
 <br />
 
-If the user is not found in the database this will display :  <br/>
-![image](https://github.com/user-attachments/assets/e87f9330-bc6c-4b37-ae2d-f845fa6ee865)
 
-<br />
 
 <br />
 
