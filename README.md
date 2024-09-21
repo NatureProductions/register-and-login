@@ -52,6 +52,7 @@ allow you to make changes on the user's information, DELETE button will remove t
 ![image](https://github.com/user-attachments/assets/c4f6de01-9869-41b3-b173-c834f854df59)
 
 <br />
+
 This is for the GETME button, but first you have to input the name of the user. </br>
 ![image](https://github.com/user-attachments/assets/372e14f6-28d2-46fe-ad5c-85f7a39a90ed)
 
@@ -62,11 +63,12 @@ This is for the UPDATE button, but first you have to input the name of the user.
 
 This will show when you click the CHECK button
 ![image](https://github.com/user-attachments/assets/32185343-c38a-4b06-8374-4ca61a74cdba)
-
+</br>
 <br/>
 After you click the UPDATE button
 ![image](https://github.com/user-attachments/assets/1dd149b6-058e-43b1-a4a4-28cc0e0f47a5)
 
+</br>
 
 
 
@@ -75,14 +77,14 @@ After you click the UPDATE button
 <br/>
 This is for DELETE button
 ![image](https://github.com/user-attachments/assets/a5339656-857b-4c2d-be11-c1cd24732fac)
-
+</br>
 <br />
 if User is not found in the database this will show up
 ![image](https://github.com/user-attachments/assets/a803a311-c45c-4225-b132-28087f2eddc5)
 
 <br />
 
-
+</br>
 
 <br />
 
