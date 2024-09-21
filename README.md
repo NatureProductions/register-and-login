@@ -34,6 +34,9 @@ This is the registration Form:  <br/>
 ![image](https://github.com/user-attachments/assets/73f0a12f-0868-441b-bfe3-a348f6db89b5)
 
 <br />
+This isthe register values in the database  <br/>
+![image](https://github.com/user-attachments/assets/06a7577e-9296-4cc6-82e4-ed7f8357a3c4)
+
 
 <br />
 
